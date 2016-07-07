@@ -6,6 +6,10 @@
 background: url('http://i.imgur.com/k4ujMVh.gif')!important;
 background-position: 0 0;
 }
-
+/*ALGUEM QUE DÁ*/
+[data-cid^="14363671-"] .badge-box .bdg{
+background: url('http://i.imgur.com/CmELO9g.gif')!important;
+background-position: 0 0;
+}
 /*COBRA*/
 [data-cid^="3620165-"] .badge-box .bdg{
